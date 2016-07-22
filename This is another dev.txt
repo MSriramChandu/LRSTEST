@@ -1,3 +1,5 @@
 This is dev commit
 
 this is another commit
+
+This is commit 7
